@@ -1,0 +1,6 @@
+{
+	"Globalwait": {
+		"type": "int",
+		"value": 5
+	}
+}
